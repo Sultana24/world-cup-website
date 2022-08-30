@@ -278,7 +278,7 @@ hr{
                 padding: 0px 0px 0px 0px;
                 margin: 0px;
             }
-            .nav-nine {
+            .nav-section {
                 display: block;
             }
             .nav-box div{
@@ -359,7 +359,7 @@ hr{
                 width: 100%;
                 height: 671px;
             }
-            .nav-nine{
+            .nav-section{
                 display: block;
                 justify-content: space-between;
                 margin-top: 30px;
